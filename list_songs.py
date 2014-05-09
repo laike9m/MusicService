@@ -55,6 +55,8 @@ def rewrite_readme():
         readme_title_text = u"laike9m ACG 音樂精選  \n=======\n\n個人向ACG音樂精選\n\n"
         readme.write(readme_title_text.encode('utf-8'))
         for line in songs.readlines():
-            readme.write('\t' + line.encode('utf-8'))
+            readme.write('\t' + line.rstrip().encode('utf-8') + '\n')
 
 rewrite_readme()
+
+# TODO: github页面字体宽度问题
