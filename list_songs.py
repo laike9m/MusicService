@@ -1,3 +1,4 @@
+from __future__ import print_function
 # coding:utf-8
 import glob
 import os
@@ -20,6 +21,6 @@ with open("unicode.txt", 'wt') as uni:
             artist = artist.encode('latin1').decode('gbk')
         except UnicodeEncodeError:
             pass
-        print(title)
-        print(artist)
+        uni.write(u'{:<30}'.format(title).encode('utf-8'))
+        uni.write(artist.encode('utf-8') + '\n')
 
