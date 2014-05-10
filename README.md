@@ -16,7 +16,7 @@ laike9m ACG 音樂精選
 | Cherry blossoms.mp3 - Little Wing                             | 殻ノ少女 オリジナルサウンドトラック「Azure」                                          |
 | Continued Story.mp3 - 黒石ひとみ                                   | コードギアス 反逆のルルーシュR2 O.S.T.2                                          |
 | Credens justitiam.mp3 - 梶浦由記                                  | 魔法少女まどか☆マギカ オリジナルサウンドトラックVol.1                                     |
-| Cycle.mp3 - 阿保剛                                               | STEINSGATE Original Soundtrack+Radio CD(仮)                         |
+| Cycle.mp3 - 阿保剛                                               | STEIN;SGATE Original Soundtrack+Radio CD(仮)                         |
 | DAN DAN 心魅かれてく.mp3 - FIELD OF VIEW                            | 龙珠GT_OP                                                            |
 | end of refrain ～小さな始まり～.mp3 - 詩月カオリ                           | I've Sound 10th Anniversary 「Departed to the future」Special CD BOX |
 | FLY ME TO THE MOON.mp3 - CLAIRE                               | 残酷な天使のテーゼ / FLY ME TO THE MOON                                     |
@@ -53,7 +53,7 @@ laike9m ACG 音樂精選
 | Zzz.mp3 - 佐咲紗花                                                | 日常_ED                                                              |
 | 「戦場ヶ原、蕩れ」.mp3 - 神前暁                                           | 化物語音楽全集 Songs&Soundtracks                                          |
 | あい.mp3 - TVサントラ                                               | 不公正抽签TV_OP                                                         |
-| いつもこの場所で.mp3 - 彩音                                             | 劇場版 STEINSGATE 負荷領域のデジャヴ エンディングテーマ_ED                              |
+| いつもこの場所で.mp3 - 彩音                                             | 劇場版 STEIN;SGATE 負荷領域のデジャヴ エンディングテーマ_ED                              |
 | いとおしい人のために.mp3 - 佐藤朱美                                         | ふしぎ遊戯　全曲集～歌曲天地之箱～                                                  |
 | さらい屋五葉.mp3 - MOKA☆                                            | さらい屋五葉 音楽集                                                         |
 | つづれおり.mp3 - speena                                            | 高桥留美子剧场_OP                                                         |
@@ -107,7 +107,6 @@ laike9m ACG 音樂精選
 | 慕情.mp3 - 和田薫                                                  | 犬夜叉 音楽篇                                                            |
 | 憧れの非日常.mp3 - 吉森信                                              | 【デュラララ!!】サイケデリックドリームス VOL.01                                       |
 | 断罪の花~Guilty Sky~.mp3 - 小坂りゆ            | CLAYMORE_ED                                            |
-|----------------------------------------|--------------------------------------------------------|
 | 旅の途中.mp3 - 吉野裕司                        | 狼と香辛料 original soundtracks                             |
 | 明日へ.mp3 - Galileo Galilei              | 機動戰士高達AGE_OP1                                          |
 | 時代を越える想い2〈鏡の中の夢幻城〉.mp3 - 和田薫           | 犬夜叉 音楽撰集 映画篇                                           |
@@ -130,7 +129,7 @@ laike9m ACG 音樂精選
 | 花の子ルンルン.mp3 - 堀江美都子                    | ベスト&ベスト                                                |
 | 輪舞‐revolution.mp3 - 奥井雅美               | 少女革命_OP                                                |
 | 運命のルーレット廻して.mp3 - ZARD                 | 名侦探柯南_OP4                                              |
-| 阿保剛 - Believe me.mp3 - 阿保剛             | STEINSGATE Original Soundtrack+Radio CD(仮)             |
+| 阿保剛 - Believe me.mp3 - 阿保剛             | STEIN;SGATE Original Soundtrack+Radio CD(仮)             |
 | 陽だまりにて和む猫.mp3 - Falcom Sound Team jdk  | 英雄伝説VI-空の軌跡 OST                                        |
 | 青い栞.mp3 - Galileo Galilei              | 我们仍未知道那天所看见的花的名字_OP                                    |
 | 青い空に出逢えた.mp3 - 辻尾有紗                    | 中华一番_ED1                                               |
