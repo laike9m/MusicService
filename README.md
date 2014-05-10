@@ -3,8 +3,9 @@ laike9m ACG 音樂精選
 
 個人向ACG音樂精選
 
-| 19才.mp3 - スガシカオ                                               | xxxHolic_OP                                                        |
+| song - singer/composer                                        | album                                                              |
 |---------------------------------------------------------------|--------------------------------------------------------------------|
+| 19才.mp3 - スガシカオ                                               | xxxHolic_OP                                                        |
 | A shadow.mp3 - 梶浦由記                                           | TBS系アニメーション「PandoraHearts」オリジナルサウンドトラック2                           |
 | all I need is...mp3 - Rake                                    | 江户盗贼团五叶_ED                                                         |
 | Another Heaven.mp3 - いとうかなこ                                   | スカイクラッドの観測者                                                        |
