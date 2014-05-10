@@ -19,7 +19,7 @@ def calc_string_width(s):
             extra_width += 1
     return extra_width, len(s) + extra_width
 
-with open("songs.txt", 'wt') as output:
+with open("songs.txt", 'wt') as output, open("gen_table.txt", 'wt') as gt:
     for f in files:
         song = eyed3.load(f)
         title = os.path.split(f)[1]
@@ -46,6 +46,7 @@ with open("songs.txt", 'wt') as output:
             format_string = u'{:%d}' % (70-extra_t_width-extra_ar_width)
             output.write(format_string.format(title + ' - ' + artist).encode('utf-8'))
             output.write(album.encode('utf-8') + '  \n')
+        gt.write((title + ' - ' + artist + ';' + album + '\n').encode('utf-8'))
 
 
 def rewrite_readme():
@@ -58,5 +59,6 @@ def rewrite_readme():
             readme.write('\t' + line.rstrip().encode('utf-8') + '\n')
 
 rewrite_readme()
+
 
 # TODO: github页面字体宽度问题
