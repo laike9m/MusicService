@@ -47,6 +47,9 @@ with open("songs.txt", 'wt') as output, open("gen_table.txt", 'wt') as gt:
             output.write(format_string.format(title + ' - ' + artist).encode('utf-8'))
             output.write(album.encode('utf-8') + '  \n')
         gt.write((title + ' - ' + artist + ';' + album + '\n').encode('utf-8'))
+        # paste gen_table.txt to http://www.tablesgenerator.com/markdown_tables#
+        # semicolon is seperator
+        # then copy/paste generated markdown table to README.md
 
 
 def rewrite_readme():
@@ -58,7 +61,7 @@ def rewrite_readme():
         for line in songs.readlines():
             readme.write('\t' + line.rstrip().encode('utf-8') + '\n')
 
-rewrite_readme()
+# rewrite_readme()
 
 
 # TODO: github页面字体宽度问题
