@@ -54,8 +54,9 @@ with open("songs.txt", 'wt') as output:
 
 def rewrite_readme():
     with open('README.md', 'w') as readme:
-        readme_title_text = u"laike9m ACG 音樂精選  \n=======\n\n個人向ACG音樂精選\n\n"
+        readme_title_text = u"laike9m ACG 音樂精選  \n=======\n\n個人向ACG音樂精選  \n"
         readme.write(readme_title_text.encode('utf-8'))
+        readme.write(u"README由**`list_songs.py`**自动生成\n\n".encode('utf-8'))
         # draw markdown table
         head = "| title - artist | album |\n"
         seperator = "|---|---|\n"
