@@ -1,6 +1,7 @@
-*.jpg
-*.png
-.idea
-ZY*
-unicode.txt
-gen_table.txt
+*
+
+!*/
+!list_songs.py
+!songs.txt
+!requirements.txt
+!README.md

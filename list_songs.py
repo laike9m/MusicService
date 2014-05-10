@@ -53,14 +53,15 @@ with open("songs.txt", 'wt') as output:
 
 
 def rewrite_readme():
-    import codecs
-    with codecs.open('README.md', 'w') as readme:
+    with open('README.md', 'w') as readme:
         readme_title_text = u"laike9m ACG 音樂精選  \n=======\n\n個人向ACG音樂精選\n\n"
         readme.write(readme_title_text.encode('utf-8'))
         # draw markdown table
         head = "| title - artist | album |\n"
         seperator = "|---|---|\n"
         readme.write(head + seperator)
+        global songinfo_list
+        songinfo_list = sorted(songinfo_list, key=lambda s: s.album)
         for songinfo in songinfo_list:
             readme.write('|' + songinfo.title_artist.encode('utf-8') + '|' +
                          songinfo.album.encode('utf-8') + '\n')
