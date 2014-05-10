@@ -1,7 +1,8 @@
 laike9m ACG 音樂精選  
 =======
 
-個人向ACG音樂精選
+個人向ACG音樂精選  
+README由**`list_songs.py`**自动生成
 
 | title - artist | album |
 |---|---|
