@@ -106,3 +106,38 @@ laike9m ACG 音樂精選
 | 慈しみ深き.mp3 - Key Sounds Label                                  | Planetarian original soundtrack                                    |
 | 慕情.mp3 - 和田薫                                                  | 犬夜叉 音楽篇                                                            |
 | 憧れの非日常.mp3 - 吉森信                                              | 【デュラララ!!】サイケデリックドリームス VOL.01                                       |
+| 断罪の花~Guilty Sky~.mp3 - 小坂りゆ            | CLAYMORE_ED                                            |
+|----------------------------------------|--------------------------------------------------------|
+| 旅の途中.mp3 - 吉野裕司                        | 狼と香辛料 original soundtracks                             |
+| 明日へ.mp3 - Galileo Galilei              | 機動戰士高達AGE_OP1                                          |
+| 時代を越える想い2〈鏡の中の夢幻城〉.mp3 - 和田薫           | 犬夜叉 音楽撰集 映画篇                                           |
+| 暁の車.mp3 - FictionJunction              | 機動戰士高達SEED 插入曲                                         |
+| 東から来た少年.mp3 - Joe Hisaishi             | もののけ姫                                                  |
+| 江戸さらさら.mp3 - MOKA☆                     | さらい屋五葉 音楽集                                             |
+| 潮風のハーモニー.mp3 - 白浜坂高校合唱部                | TVアニメ『TARI TARI』_ED                                    |
+| 煌めく瞬間に捕われて ~CINE VERSION~.mp3 - MANISH | THE BEST OF TV ANIMATION SLAM DUNK ~Single Collection~ |
+| 瑠璃の鳥.mp3 - Little Wing                 | 殻ノ少女 オリジナルサウンドトラック「Azure」                              |
+| 白浜坂高校校歌.mp3 - 浜口史郎                     | TVアニメ『TARI TARI』ミュージックアルバム ～歌ったり、奏でたり～                 |
+| 白金ディスコ.mp3 - 阿良々木月火(井口裕香)              | 偽物語_OP3                                                |
+| 秋姉妹のなく頃に.mp3 - ばんばんしー                  | 秋満開の風に舞う                                               |
+| 空.mp3 - 大黒摩季                           | 中华一番_OP1                                               |
+| 空も飛べるはず.mp3 - さよならポニーテール               | 钓球_ED                                                  |
+| 空想メソロギヰ.mp3 - 妖精帝國                     | 未来日记_OP1                                               |
+| 笑顔が好きだから.mp3 - 日本ACG                   | 赤ずきんチャチャ 聖(セント)まじかるレビュー Vol.1                          |
+| 経験値上昇中☆.mp3 - 日本ACG                    | 経験値上昇中☆                                                |
+| 緑色の記憶.mp3 - 吉森信                        | 【デュラララ!!】サイケデリックドリームス VOL.01                           |
+| 臆病者.mp3 - 光宗信吉                         | TVアニメ「ローゼンメイデン」オリジナルサウンドトラック                           |
+| 花の子ルンルン.mp3 - 堀江美都子                    | ベスト&ベスト                                                |
+| 輪舞‐revolution.mp3 - 奥井雅美               | 少女革命_OP                                                |
+| 運命のルーレット廻して.mp3 - ZARD                 | 名侦探柯南_OP4                                              |
+| 阿保剛 - Believe me.mp3 - 阿保剛             | STEINSGATE Original Soundtrack+Radio CD(仮)             |
+| 陽だまりにて和む猫.mp3 - Falcom Sound Team jdk  | 英雄伝説VI-空の軌跡 OST                                        |
+| 青い栞.mp3 - Galileo Galilei              | 我们仍未知道那天所看见的花的名字_OP                                    |
+| 青い空に出逢えた.mp3 - 辻尾有紗                    | 中华一番_ED1                                               |
+| 青春として.mp3 - manzo                      | 现视研OVA_OP                                              |
+| 靴ひも.mp3 - 山本朝海                         | 魔女之刃_ED2                                               |
+| 願いが叶う場所.mp3 - Key Sounds Label         | CLANNAD Original SoundTrack                            |
+| 願いが叶う場所Ⅱ.mp3 - Key Sounds Label        | CLANNAD Original SoundTrack                            |
+| 風のように自由~free as the wind.mp3 - 宇徳敬子    | 中华一番_ED3                                               |
+| 颯爽.mp3 - MOKA☆                         | さらい屋五葉 音楽集                                             |
+| 騎士王の誇り.mp3 - 川井憲次                      | Fate/Stay night A.OST                                  |
