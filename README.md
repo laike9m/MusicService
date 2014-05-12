@@ -55,6 +55,9 @@ README由**`list_songs.py`**自动生成
 |いとおしい人のために - 佐藤朱美|ふしぎ遊戯　全曲集～歌曲天地之箱～
 |アヴェ・マリア(Violin×Piano Ver.) - Violin+Piano:TAM|まど☆マギ Classic
 |東から来た少年 - Joe Hisaishi|もののけ姫
+|こなたのテーマ、普通バージョン - 神前暁|らき☆すた DVD Vol.01 限定版 特典CD
+|フンフンギターだよ、らき☆すた - 神前暁|らき☆すた DVD Vol.05 限定版 特典CD
+|ヤンチメンタル修学旅行～ちょっと速い～ - 神前暁|らき☆すた DVD Vol.11 限定版 特典CD
 |テルーの唄(歌集バージョン) - 手嶌葵|ゲド戦記歌集
 |If I were a Bird - 黒石ひとみ|コードギアス 反逆のルルーシュR2 O.S.T. 
 |Continued Story - 黒石ひとみ|コードギアス 反逆のルルーシュR2 O.S.T.2
@@ -119,6 +122,7 @@ README由**`list_songs.py`**自动生成
 |リフレクティア - eufonius|真实之泪_OP
 |秋姉妹のなく頃に - ばんばんしー|秋満開の風に舞う
 |LILIUM - MOKA☆|竜宮幻歌～with visualization～
+|夜の向日葵 - 松本文紀|素晴らしき日々 サウンドトラックCD
 |経験値上昇中☆ - 日本ACG|経験値上昇中☆
 |Spirit Inspiration - Nothing's Carved In Stone|絕園的暴風雨_OP
 |Sayonara Solitia - 千叶纱子|聖槍修女_ED
