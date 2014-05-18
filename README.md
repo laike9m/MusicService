@@ -19,6 +19,7 @@ README由**`list_songs.py`**自动生成
 |初音ミクの消失 - VOCALOID|EXIT TUNES PRESENTS Vocarhythm feat.初音ミク
 |子猫のパヤパヤ - VOCALOID|EXIT TUNES PRESENTS Vocarhythm feat.初音ミク
 |Necro Fantasia - 美里|EXSERENSES
+|今日の日はさようなら - 林原めぐみ|Evangelion: 2.0 You Can (Not) Advance. Original Soundtrack
 |Karma - 阿保剛|Ever17 ~the out of infinity~ Sound Collection
 |Little Busters - The Pillows |FLCL Original Sound Track NO. 3
 |騎士王の誇り - 川井憲次|Fate/Stay night A.OST
@@ -57,6 +58,8 @@ README由**`list_songs.py`**自动生成
 |東から来た少年 - Joe Hisaishi|もののけ姫
 |こなたのテーマ、普通バージョン - 神前暁|らき☆すた DVD Vol.01 限定版 特典CD
 |フンフンギターだよ、らき☆すた - 神前暁|らき☆すた DVD Vol.05 限定版 特典CD
+|ゆたかのテーマ - 神前暁|らき☆すた DVD Vol.07 限定版 特典CD
+|1年生はフレッシュだねぇ - 神前暁|らき☆すた DVD Vol.08 限定版 特典CD
 |ヤンチメンタル修学旅行～ちょっと速い～ - 神前暁|らき☆すた DVD Vol.11 限定版 特典CD
 |テルーの唄(歌集バージョン) - 手嶌葵|ゲド戦記歌集
 |If I were a Bird - 黒石ひとみ|コードギアス 反逆のルルーシュR2 O.S.T. 
@@ -98,6 +101,7 @@ README由**`list_songs.py`**自动生成
 |空想メソロギヰ - 妖精帝國|未来日记_OP1
 |ひめくり - 佐土原かおり|枪械少女_ED
 |I.N.G - 日本ACG|枪械少女_OP
+|Fields of hope - 田中理恵|機動戦士ガンダムSEED DESTINY ORIGINAL SOUNDTRACK I
 |明日へ - Galileo Galilei|機動戰士高達AGE_OP1
 |Reason - 玉置成実|機動戰士高達SEED DENISTY_ED1
 |Life Goes On - 有坂美香|機動戰士高達SEED DENISTY_ED2
@@ -108,7 +112,8 @@ README由**`list_songs.py`**自动生成
 |Cherry blossoms - Little Wing|殻ノ少女 オリジナルサウンドトラック「Azure」
 |Lilac - Little Wing|殻ノ少女 オリジナルサウンドトラック「Azure」
 |瑠璃の鳥 - Little Wing|殻ノ少女 オリジナルサウンドトラック「Azure」
-|all I need is.. - Rake|江户盗贼团五叶_ED
+|無伴奏チェロ組曲　第一番 - 田中公平|氷菓 第1巻特典 CD
+|happiness of marionette - dai|海猫鸣泣之时
 |Light My Fire - KOTOKO|灼眼的夏娜第三季_OP
 |時代を越える想い2〈鏡の中の夢幻城〉 - 和田薫|犬夜叉 音楽撰集 映画篇
 |慕情 - 和田薫|犬夜叉 音楽篇
@@ -125,6 +130,7 @@ README由**`list_songs.py`**自动生成
 |夜の向日葵 - 松本文紀|素晴らしき日々 サウンドトラックCD
 |経験値上昇中☆ - 日本ACG|経験値上昇中☆
 |Spirit Inspiration - Nothing's Carved In Stone|絕園的暴風雨_OP
+|比翼の羽根 - eufonius|缘之空_OP
 |Sayonara Solitia - 千叶纱子|聖槍修女_ED
 |地球ぎ - 松澤由美|聖闘士星矢 主題歌&BEST
 |It's only the fairy tale - 宮村優子|舞-HiME オリジナルサウンドトラック VOL.1
