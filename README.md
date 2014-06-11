@@ -7,6 +7,8 @@ README由**`list_songs.py`**自动生成
 | title - artist | album |
 |---|---|
 |夏影 - 折戸伸治|AIR Original SoundTrack
+|Rainbow -acoustic ver.- - 日本ACG|ARIA The ANIMATION オリジナルサウンドトラック
+|Welcome☆Berry's - Duca|Berry's マキシシングル
 |CARAMELLDANSEN(ウッーウッーウマウマ(゜∀゜))(Speedycake Remix) - 歌ってみた|CDで聞いてみて。～ニコニコ動画せれくちょん～
 |願いが叶う場所 - Key Sounds Label|CLANNAD Original SoundTrack
 |願いが叶う場所Ⅱ - Key Sounds Label|CLANNAD Original SoundTrack
@@ -23,23 +25,31 @@ README由**`list_songs.py`**自动生成
 |Karma - 阿保剛|Ever17 ~the out of infinity~ Sound Collection
 |Little Busters - The Pillows |FLCL Original Sound Track NO. 3
 |騎士王の誇り - 川井憲次|Fate/Stay night A.OST
+|人生的回转木马 - Joe Hisaishi|Freedom Piano Stories 4
 |スカボロー·フェア - 多田葵|GUNSLINGERGIRL第二季 第8话插曲&ED
 |end of refrain ～小さな始まり～ - 詩月カオリ|I've Sound 10th Anniversary 「Departed to the future」Special CD BOX
 |L'Oiseau bleu - I've|I've Sound 10th Anniversary 「Departed to the future」Special CD BOX
 |Rage Your Dream - Move|Initial D Best Song Collection 1998-2004
+|Bloom of Youth - Key Sounds Label|Kud Wafter OST
 |哀と悲 - 六三四|NARUTO-ナルト-オリジナルサウンドトラック
 |慈しみ深き - Key Sounds Label|Planetarian original soundtrack
 |Believe me - 阿保剛|STEINS;GATE Original Soundtrack+Radio CD(仮)
 |Cycle - 阿保剛|STEINS;GATE Original Soundtrack+Radio CD(仮)
 |A shadow - 梶浦由記|TBS系アニメーション「PandoraHearts」オリジナルサウンドトラック2 
+|もう君だけを離したりはしない - 上木彩矢|THE BEST OF DETECTIVE CONAN 3 ~名探偵コナン テーマ曲集3~
+|Still for your love - rumania montevideo|THE BEST OF DETECTIVE CONAN ~名探偵コナン テーマ曲集~
+|光と影のロマン - 宇徳敬子|THE BEST OF DETECTIVE CONAN ~名探偵コナン テーマ曲集~
 |マイ フレンド - ZARD|THE BEST OF TV ANIMATION SLAM DUNK ~Single Collection~
 |煌めく瞬間に捕われて ~CINE VERSION~ - MANISH|THE BEST OF TV ANIMATION SLAM DUNK ~Single Collection~
 |もってけ!セーラーふく - 日本ACG|TVアニメ「らき☆すた」OP主題歌 もってけ！セーラーふく
 |臆病者 - 光宗信吉|TVアニメ「ローゼンメイデン」オリジナルサウンドトラック
+|キミがいる - 日本ACG|TVアニメ「僕等がいた」Vocal Album 永遠
+|It's the only NEET thing to do - 岩崎琢|TVアニメ「神様のメモ帳」オリジナルサウンドトラック
 |潮風のハーモニー - 白浜坂高校合唱部|TVアニメ『TARI TARI』_ED
 |radiant melody - 浜口史郎|TVアニメ『TARI TARI』ミュージックアルバム ～歌ったり、奏でたり～
 |心の旋律 - 浜口史郎|TVアニメ『TARI TARI』ミュージックアルバム ～歌ったり、奏でたり～
 |白浜坂高校校歌 - 浜口史郎|TVアニメ『TARI TARI』ミュージックアルバム ～歌ったり、奏でたり～
+|月明かり - 日本ACG|echo. ORIGINALSOUND TRACK
 |letter song - ヲタみん|letter song
 |サクラ - eufonius|narcissu SIDE 2nd
 |19才 - スガシカオ|xxxHolic_OP
@@ -87,11 +97,14 @@ README由**`list_songs.py`**自动生成
 |M07 - 梶浦由記|劇場版 空の境界 Vol.7／「殺人考察(後)」Original Soundtrack
 |「戦場ヶ原、蕩れ」 - 神前暁|化物語音楽全集 Songs&Soundtracks
 |君の知らない物语 - nagi(supercell)|化物语_ED
+|いつも何度でも - 奥戸巴寿|千と千尋の神隠し_ED
 |君がいない夏 - DEEN|名侦探柯南_ED4
 |運命のルーレット廻して - ZARD|名侦探柯南_OP4
 |四畳半紀の終わり - 大島ミチル|四畳半神話大系 オリジナル・サウンドトラック 
+|星降る夜のリストランテ - コーコーヤ|天堂餐馆_OST
 |輪舞‐revolution - 奥井雅美|少女革命_OP
 |青い栞 - Galileo Galilei|我们仍未知道那天所看见的花的名字_OP
+|新しいクラス - MONACA|放浪息子 オリジナルサウンドトラック Vol.2
 |I wish - AiM|数码宝贝第一部_ED1
 |keep on - AiM|数码宝贝第一部_ED2
 |Butter-Fly - 和田光司|數碼寶貝第一部_OP
@@ -125,6 +138,7 @@ README由**`list_songs.py`**自动生成
 |マイペース大王 - manzo|现视研第一季_OP
 |ソ・ラ・ソ・ミ ~piano ver.~ - コーコーヤ|異国迷路のクロワーゼ The Animation オリジナルサウンドトラック
 |リフレクティア - eufonius|真实之泪_OP
+|遠いこの空から - 志倉千代丸|秋之回忆 钢琴选集1
 |秋姉妹のなく頃に - ばんばんしー|秋満開の風に舞う
 |LILIUM - MOKA☆|竜宮幻歌～with visualization～
 |夜の向日葵 - 松本文紀|素晴らしき日々 サウンドトラックCD
@@ -134,6 +148,7 @@ README由**`list_songs.py`**自动生成
 |Sayonara Solitia - 千叶纱子|聖槍修女_ED
 |地球ぎ - 松澤由美|聖闘士星矢 主題歌&BEST
 |It's only the fairy tale - 宮村優子|舞-HiME オリジナルサウンドトラック VOL.1
+|ハナノイロ - nano.RIPE|花开伊吕波_ED
 |陽だまりにて和む猫 - Falcom Sound Team jdk|英雄伝説VI-空の軌跡 OST
 |The Sore Feet Song（フルサイズ） - 増田俊郎|蟲師_OP
 |笑顔が好きだから - 日本ACG|赤ずきんチャチャ 聖(セント)まじかるレビュー Vol.1
