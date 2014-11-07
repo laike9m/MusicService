@@ -68,7 +68,7 @@ def rewrite_readme():
             readme.write(
                 '|[' + songinfo.title.encode('utf-8') + ' - ' +
                 artist.encode('utf-8') + '](' + 'http://www.laike9m.com/media/songs/'
-                + songinfo.title.encode('utf-8') + ')|' +
+                + songinfo.title.encode('utf-8') + '.mp3' + ')|' +
                 songinfo.album.encode('utf-8') + '\n'
             )
 
