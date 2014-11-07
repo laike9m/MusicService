@@ -9,7 +9,7 @@ from collections import namedtuple
 
 fse = sys.getfilesystemencoding()
 files = [x for x in glob.glob(u"songs/*.mp3")]
-SongInfo = namedtuple("SongInfo", "title_artist album")
+SongInfo = namedtuple("SongInfo", "title artist album")
 songinfo_list = []
 
 
@@ -36,7 +36,7 @@ with open("songs.txt", 'wt') as output:
             album = album.encode('latin1').decode('gbk')
         except UnicodeEncodeError:
             pass
-        songinfo_list.append(SongInfo(title+' - '+artist, album))
+        songinfo_list.append(SongInfo(title, artist, album))
         extra_t_width, t_width = calc_string_width(title)
         extra_ar_width, ar_width = calc_string_width(artist)
         extra_al_width, al_width = calc_string_width(album)
@@ -56,7 +56,8 @@ def rewrite_readme():
     with open('README.md', 'w') as readme:
         readme_title_text = u"laike9m ACG 音樂精選  \n=======\n\n個人向ACG音樂精選  \n"
         readme.write(readme_title_text.encode('utf-8'))
-        readme.write(u"README由**`list_songs.py`**自动生成\n\n".encode('utf-8'))
+        readme.write(u"README由**`list_songs.py`**自动生成  \n".encode('utf-8'))
+        readme.write(u"点击歌曲名可播放，右键另存为可下载\n\n".encode('utf-8'))
         # draw markdown table
         head = "| title - artist | album |\n"
         seperator = "|---|---|\n"
@@ -64,7 +65,11 @@ def rewrite_readme():
         global songinfo_list
         songinfo_list = sorted(songinfo_list, key=lambda s: s.album)
         for songinfo in songinfo_list:
-            readme.write('|' + songinfo.title_artist.encode('utf-8') + '|' +
-                         songinfo.album.encode('utf-8') + '\n')
+            readme.write(
+                '|[' + songinfo.title.encode('utf-8') + ' - ' +
+                artist.encode('utf-8') + '](' + 'http://www.laike9m.com/media/songs/'
+                + songinfo.title.encode('utf-8') + ')|' +
+                songinfo.album.encode('utf-8') + '\n'
+            )
 
 rewrite_readme()
